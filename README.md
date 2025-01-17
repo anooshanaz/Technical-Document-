@@ -36,7 +36,7 @@ Backend
 Sanity CMS: A headless CMS used to meet frontend content requirements.
 API
 ShipEngine: API used for shipment tracking and delivery.
-Tools
+Tools.
 GitHub: For version control and collaborative development.
 Vercel: For deploying the Next.js application.
 System Architecture Diagram in pdf file.
